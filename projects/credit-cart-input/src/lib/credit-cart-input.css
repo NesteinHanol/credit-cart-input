@@ -1,0 +1,9 @@
+.container {
+    display: flex;
+    align-items: center; /* Bu, içerik öğelerini dikey olarak ortalar */
+  }
+  
+  .aligned-image {
+    height: 30px; /* Bu değeri input alanınızın yüksekliğine göre ayarlayabilirsiniz */
+    margin-left: 10px; /* İsterseniz aralarında bir boşluk bırakabilirsiniz */
+  }
